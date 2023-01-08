@@ -1,0 +1,83 @@
+<html>
+<head>
+<title> welcome </title>
+<link rel="icon" href="https://cdn-icons-png.flaticon.com/512/270/270014.png">
+</head>
+<body bgcolor="pink">
+<marquee behavior="alternate" bgcolor="yellow"direction="right" speed="15"><h1>New Webdesign</h1></marquee>
+<table border="2px" bgcolor="yellow" align="center" height="60" width="50" cellpadding=2px>
+             <thead>
+                           <tbody>
+                                         <tr align="center"bgcolor="green">
+                                          <th colspan="7"> Time Table </th>
+                                           </tr>
+                                         <tr bgcolor="pink" align="center">
+                                          <th></th>
+                                                <th> S.No.</th>
+                                                <th>Name </th>
+                                                <th>Fees</th>
+                                                <th>Duration</th>
+                                                 <th>Time</th> 
+                                                 <th> Teacher Name </th> 
+                                         </tr>
+                                         <tr ><td rowspan="8" height="10px">Academy</td> </tr>
+                                         <tr align=""center>
+                                             
+                                                <td >  1</td>
+                                                <td>Java </td>
+                                                <td>15,000     </td>
+                                                <td>6 month</td>
+                                                 <td>  9am-10am  </td> 
+                                                 <td bgcolor="green"> Aman Sir </td> 
+                                         </tr>
+                                             <tr height="20px" align="center"  >
+                                                <td>  </td>
+                                                <td></td>
+                                                <td>    </td>
+                                                <td></td>
+                                                 <td>    </td> 
+                                                 <td>  </td> 
+                                         </tr>
+                                         
+
+                                         <tr align="center">
+                                                <td>  2</td>
+                                                <td>Css </td>
+                                                <td>20,000     </td>
+                                                <td>9 month</td>
+                                                 <td>  10am-11am  </td>  
+                                                  <td bgcolor="green"> Rahul sir </td>
+                                         </tr>
+                                            <tr align="center" bgcolor="red">
+                                                <td> 3</td>
+                                                <td>HTML </td>
+                                                <td>25,000     </td>
+                                                <td>1 year</td>
+                                                 <td> 11am-12am  </td> 
+                                                    <td bgcolor="green">Rajeev Sir  </td>  
+                                         </tr>
+                                         <tr align="center" bgcolor="green">
+                                                 
+                                                    <th colspan="6">Lunch Time  </th>  
+                                         </tr>
+                                       
+                                             
+                                           <tr bgcolor="red" align="center">
+                                                <td>4</td>
+                                                <td>C++ </td>
+                                                <td>30,000     </td>
+                                                <td>1 year</td>
+                                                 <td> 12am-1am  </td>  
+                                                 <td bgcolor="green">Raman Sir </td>    
+                                         </tr>
+                                            <tr align="center">
+                                                <td>5</td>
+                                                <td>C</td>
+                                                <td>35,000     </td>
+                                                <td>16 month</td>
+                                                 <td>2pm-3pm </td>  
+                                                 <td bgcolor="green"> Rohit Sir </td>
+                                         </tr>
+
+</body>
+</html>
